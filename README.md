@@ -13,7 +13,7 @@ ADC Module
 
 <img width="488" height="661" alt="ads1115 demo" src="https://github.com/user-attachments/assets/dcafcc3b-4f0d-4d56-94ad-c23cd8ee387e" />
 
-(ADC Reading ADC Module)
+(Readings from ADC Module)
 
 Raspberry Pi ADC
 
